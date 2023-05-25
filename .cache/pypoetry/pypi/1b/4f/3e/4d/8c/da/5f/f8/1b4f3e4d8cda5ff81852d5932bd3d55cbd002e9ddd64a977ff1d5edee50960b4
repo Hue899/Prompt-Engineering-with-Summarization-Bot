@@ -1,0 +1,1 @@
+9999999999{"name": "python-multipart", "version": "0.0.5", "summary": "A streaming multipart parser for Python", "platform": "any", "requires_dist": ["six>=1.4.0"], "requires_python": null, "files": [], "_cache_version": "1.0.0"}

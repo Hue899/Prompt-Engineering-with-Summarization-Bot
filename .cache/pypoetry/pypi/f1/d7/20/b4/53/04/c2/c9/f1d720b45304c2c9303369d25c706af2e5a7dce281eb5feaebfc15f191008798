@@ -1,0 +1,1 @@
+9999999999{"name": "uc-micro-py", "version": "1.0.1", "summary": "Micro subset of unicode data files for linkify-it-py projects.", "platform": "", "requires_dist": ["coverage ; extra == 'test'", "pytest ; extra == 'test'", "pytest-cov ; extra == 'test'"], "requires_python": ">=3.6", "files": [], "_cache_version": "1.0.0"}
